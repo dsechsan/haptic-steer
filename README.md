@@ -1,5 +1,8 @@
 # A 2-DoF haptic controller which enables bidirectional interaction with a virtual rigid ball in a 3D environment.
 
+## Architecture of the haptic interface system:
+![architecture](/Images/architecture.png)
+
 ## Click on the images below to watch the videos:
 **Demo:** <br>
 [![watch_demo](https://img.youtube.com/vi/2q8rHm4gK60/1.jpg)](https://www.youtube.com/watch?v=2q8rHm4gK60)
