@@ -13,3 +13,6 @@
 **Force feedback in Haptic Steer:** <br>
 [![watch_fdbk](https://img.youtube.com/vi/WZXPGZhVnqc/0.jpg)](https://www.youtube.com/watch?v=WZXPGZhVnqc)
 <br>
+
+
+For complete details about the Unity project, contact rgutta@ucsd.edu
