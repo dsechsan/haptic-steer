@@ -15,4 +15,4 @@
 <br>
 
 
-For complete details about the Unity project, contact rgutta@ucsd.edu
+For complete details about the project, contact dchintada@ucsd.edu / rgutta@ucsd.edu 
